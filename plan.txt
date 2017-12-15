@@ -1,0 +1,4 @@
+mancala lowlevel bot logic: (in order of precedence)
+if you can get an extra turn, starting from right to left, do it
+if you can steal, do it
+idk i'm not done
